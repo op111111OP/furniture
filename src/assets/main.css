@@ -1,0 +1,11 @@
+@import "./base.css";
+a {
+  text-decoration: none;
+  color: #000;
+}
+body {
+  background: #000;
+}
+* {
+  color: white;
+}
